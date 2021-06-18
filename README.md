@@ -26,7 +26,7 @@ npm install --save react-icons
 
 # Backend
 
-Run `npm start` for a dev server. Navigate to `http://localhost:5000`
+Run `npm start` for a dev server. Navigate to `http://localhost:5000/`
 
 ## packages and dependencies
   
