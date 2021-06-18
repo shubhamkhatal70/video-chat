@@ -12,7 +12,7 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 
 ## packages and dependencies
 
-add this script to index.html after <title> tag -> <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
+add this script to index.html after <title> tag -> <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"> </script>
 
 npm install socket.io-client
 
