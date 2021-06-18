@@ -1,0 +1,15 @@
+.dashboard_info_text_container {
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dashboard_info_text_title {
+    font-size: 50px;
+  }
+  
+  .dashboard_info_text_description {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  

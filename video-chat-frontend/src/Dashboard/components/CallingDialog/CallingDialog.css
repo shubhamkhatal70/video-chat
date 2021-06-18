@@ -1,0 +1,20 @@
+.direct_calling_dialog {
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  top: calc(50% - 150px);
+  left: calc(50% - 200px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+
+.direct_call_dialog_caller_name {
+  font-size: 30px;
+}
+
+.direct_call_dialog_button_container {
+  margin-top: 20px;
+}

@@ -1,0 +1,13 @@
+.group_calls_list_item {
+  display: flex;
+  height: 100%;
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  transition: 0.3s;
+}
+
+.group_calls_list_item:hover {
+  opacity: 0.5;
+}
